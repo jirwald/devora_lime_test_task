@@ -1,0 +1,17 @@
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Persistence.deps.json
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Persistence.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Persistence.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Contracts.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Domain.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Contracts.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\bin\Debug\net6.0\DevoraLimeTestTask.Domain.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.csproj.AssemblyReference.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.AssemblyInfoInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.AssemblyInfo.cs
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.csproj.CopyComplete
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\refint\DevoraLimeTestTask.Persistence.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\DevoraLimeTestTask.Persistence.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Persistence\obj\Debug\net6.0\ref\DevoraLimeTestTask.Persistence.dll

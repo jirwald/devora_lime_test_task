@@ -1,0 +1,459 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask\\DevoraLimeTestTask.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\DevoraLimeTestTask.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\DevoraLimeTestTask.Business.csproj",
+        "projectName": "DevoraLimeTestTask.Business",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\DevoraLimeTestTask.Business.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj",
+        "projectName": "DevoraLimeTestTask.Contracts",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\DevoraLimeTestTask.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\DevoraLimeTestTask.CrossCutting.csproj",
+        "projectName": "DevoraLimeTestTask.CrossCutting",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\DevoraLimeTestTask.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\DevoraLimeTestTask.Business.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Business\\DevoraLimeTestTask.Business.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj",
+        "projectName": "DevoraLimeTestTask.Domain",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj",
+        "projectName": "DevoraLimeTestTask.Persistence",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\DevoraLimeTestTask.Persistence.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask\\DevoraLimeTestTask.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask\\DevoraLimeTestTask.WebAPI.csproj",
+        "projectName": "DevoraLimeTestTask.WebAPI",
+        "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask\\DevoraLimeTestTask.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\gyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Contracts\\DevoraLimeTestTask.Contracts.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\DevoraLimeTestTask.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.CrossCutting\\DevoraLimeTestTask.CrossCutting.csproj"
+              },
+              "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\gyu\\source\\repos\\DevoraLimeTestTask\\DevoraLimeTestTask.Domain\\DevoraLimeTestTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

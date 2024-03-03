@@ -1,0 +1,11 @@
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\bin\Debug\net6.0\DevoraLimeTestTask.Domain.deps.json
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\bin\Debug\net6.0\DevoraLimeTestTask.Domain.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\bin\Debug\net6.0\DevoraLimeTestTask.Domain.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.AssemblyInfoInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.AssemblyInfo.cs
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\refint\DevoraLimeTestTask.Domain.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\DevoraLimeTestTask.Domain.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Domain\obj\Debug\net6.0\ref\DevoraLimeTestTask.Domain.dll

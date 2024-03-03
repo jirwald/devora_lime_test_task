@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O+IvaQBYmnm90QMwESRUUAaG7AOMiJ5vwacNJlqV1Aw=",
+  "Source": "DevoraLimeTestTask.WebAPI",
+  "BasePath": "_content/DevoraLimeTestTask.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

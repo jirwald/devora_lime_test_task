@@ -1,0 +1,15 @@
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\bin\Debug\net6.0\DevoraLimeTestTask.Contracts.deps.json
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\bin\Debug\net6.0\DevoraLimeTestTask.Contracts.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\bin\Debug\net6.0\DevoraLimeTestTask.Contracts.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\bin\Debug\net6.0\DevoraLimeTestTask.Domain.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\bin\Debug\net6.0\DevoraLimeTestTask.Domain.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.csproj.AssemblyReference.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.AssemblyInfoInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.AssemblyInfo.cs
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.csproj.CopyComplete
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\refint\DevoraLimeTestTask.Contracts.dll
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\DevoraLimeTestTask.Contracts.pdb
+C:\Users\gyu\source\repos\DevoraLimeTestTask\DevoraLimeTestTask.Contracts\obj\Debug\net6.0\ref\DevoraLimeTestTask.Contracts.dll

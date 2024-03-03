@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevoraLimeTestTask.Contracts\DevoraLimeTestTask.Contracts.csproj" />
+    <ProjectReference Include="..\DevoraLimeTestTask.Domain\DevoraLimeTestTask.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
